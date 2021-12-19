@@ -11,5 +11,9 @@ namespace AppService.Controllers
     [ApiController]
     public class UserController : ControllerBase
     {
+        public void CheckUser()
+        {
+
+        }
     }
 }
