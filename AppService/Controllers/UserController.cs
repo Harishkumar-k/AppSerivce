@@ -13,7 +13,7 @@ namespace AppService.Controllers
     {
         public void CheckUser()
         {
-            asdfdsf
+            
         }
     }
 }
